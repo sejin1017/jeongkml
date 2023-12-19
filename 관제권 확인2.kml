@@ -5,7 +5,7 @@
         <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Polygon>
@@ -23,7 +23,7 @@
      <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Polygon>
@@ -41,7 +41,7 @@
         <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Polygon>
@@ -59,7 +59,7 @@
         <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Polygon>
@@ -77,7 +77,7 @@
           <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Polygon>
@@ -95,7 +95,7 @@
          <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Polygon>
@@ -113,7 +113,7 @@
          <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Polygon>
@@ -131,7 +131,7 @@
         <Style>
         <PolyStyle>
           <fill>0</fill> 
-          <outline>2</outline> 
+          <outline>1</outline> 
         </PolyStyle>
           </Style>
       <Point>
