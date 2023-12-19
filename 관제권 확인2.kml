@@ -4,6 +4,7 @@
     <Placemark>
         <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
@@ -25,6 +26,7 @@
     <Placemark>
      <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
@@ -46,6 +48,7 @@
     <Placemark>
         <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
@@ -67,6 +70,7 @@
     <Placemark>
         <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
@@ -88,6 +92,7 @@
     <Placemark>
           <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
@@ -109,6 +114,7 @@
     <Placemark>
          <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
@@ -130,6 +136,7 @@
     <Placemark>
          <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
@@ -151,6 +158,7 @@
     <Placemark>
         <Style>
         <LineStyle>
+          <color>ff0000ff</color>
           <width>2</width>
         </LineStyle>
         <PolyStyle>
