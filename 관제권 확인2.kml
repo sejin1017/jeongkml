@@ -3,6 +3,9 @@
       <!-- 첫 번째 폴리곤 -->
     <Placemark>
         <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
@@ -21,6 +24,9 @@
     <!-- 두 번째 폴리곤 -->
     <Placemark>
      <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
@@ -39,6 +45,9 @@
     <!-- 세 번째 폴리곤 -->
     <Placemark>
         <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
@@ -57,6 +66,9 @@
     <!-- 네 번째 폴리곤 -->
     <Placemark>
         <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
@@ -75,6 +87,9 @@
     <!-- 다섯 번째 폴리곤 -->
     <Placemark>
           <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
@@ -93,6 +108,9 @@
     <!-- 여섯 번째 폴리곤 -->
     <Placemark>
          <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
@@ -111,6 +129,9 @@
     <!-- 일곱 번째 폴리곤 -->
     <Placemark>
          <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
@@ -129,6 +150,9 @@
     <!-- 여덟 번째 원 -->
     <Placemark>
         <Style>
+        <LineStyle>
+          <width>2</width>
+        </LineStyle>
         <PolyStyle>
           <fill>0</fill> 
           <outline>1</outline> 
