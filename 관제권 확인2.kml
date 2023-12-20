@@ -217,7 +217,7 @@
 			</Point>
 		</Placemark>
    <Placemark>
-			<description>6 구역</description>
+			<name>6 구역</name>
 			<styleUrl>#labelStyle</styleUrl>
 			<Point>
 				<coordinates>126.7628859673386,33.39810572154422,0</coordinates>
