@@ -4,7 +4,10 @@
       <LabelStyle>
         <scale>1.3</scale> <!-- 크기: 1.3 -->
       </LabelStyle>
-    </Style>
+      <IconStyle>
+	<color>00ffffff</color>
+      </IconStyle>
+      </Style>
       <!-- 첫 번째 폴리곤 -->
     <Placemark>
         <Style>
