@@ -181,5 +181,125 @@
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+    <Placemark>
+      <name>3 구역</name>
+            <Style>
+    <IconStyle>
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+      <Point>
+        <coordinates>126.6800398007761,33.35545697624054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+			<name>2 구역</name>
+      <Style>
+    <IconStyle>
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+      <Point>
+				<coordinates>126.6808286013104,33.43398120607775,0</coordinates>
+			</Point> 
+    </Placemark>
+    <Placemark>
+			<name>4 구역</name>
+        <Style>
+    <IconStyle>
+     <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+      <Point>
+				<coordinates>126.7117463145672,33.33703030857004,0</coordinates>
+			</Point>
+		</Placemark>
+    <Placemark>
+			<name>5 구역</name>
+        <Style>
+    <IconStyle>
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+      <Point>
+				<coordinates>126.7109578448146,33.45177557246237,0</coordinates>
+			</Point>
+		</Placemark>
+    <Placemark>
+			<name>R 구역</name>
+			       <Style>
+    <IconStyle>
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+			<Point>
+				<coordinates>126.711323963212,33.39077928044976,0</coordinates>
+			</Point>
+		</Placemark>
+   <Placemark>
+			<name>6 구역</name>
+			      <Style>
+    <IconStyle>
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+			<Point>
+				<coordinates>126.7628859673386,33.39810572154422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 구역</name>
+			      <Style>
+    <IconStyle>
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+			<Point>
+				<coordinates>126.7580042174415,33.4475858353759,0</coordinates>
+			</Point>
+		</Placemark> 
+     <Placemark>
+			<name>1 구역</name>
+      <Style>
+    <IconStyle>
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.3</scale> <!-- 크기: 1.3 -->
+    </LabelStyle>
+  </Style>
+                        <Point>
+				<coordinates>126.6620702377426,33.39698286070909,0</coordinates>
+			</Point>
+		</Placemark> 
   </Document>
 </kml>
