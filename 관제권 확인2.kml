@@ -177,7 +177,7 @@
       <name>3 구역</name>
             <Style>
     <IconStyle>
-      <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
@@ -192,7 +192,7 @@
 			<name>2 구역</name>
       <Style>
     <IconStyle>
-      <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
@@ -207,7 +207,7 @@
 			<name>4 구역</name>
         <Style>
     <IconStyle>
-     <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+     <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
@@ -222,7 +222,7 @@
 			<name>5 구역</name>
         <Style>
     <IconStyle>
-      <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
@@ -237,7 +237,7 @@
 			<name>R 구역</name>
 			       <Style>
     <IconStyle>
-      <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
@@ -252,7 +252,7 @@
 			<name>6 구역</name>
 			      <Style>
     <IconStyle>
-      <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
@@ -267,7 +267,7 @@
 			<name>7 구역</name>
 			      <Style>
     <IconStyle>
-      <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
@@ -282,7 +282,7 @@
 			<name>1 구역</name>
       <Style>
     <IconStyle>
-      <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
+      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
     </IconStyle>
     <LabelStyle>
