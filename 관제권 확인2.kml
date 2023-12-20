@@ -280,7 +280,7 @@
 		</Placemark> 
      <Placemark>
 			<name>1 구역</name>
-                               <Style>
+      <Style>
     <IconStyle>
       <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
       <scale>1.3</scale> <!-- 크기: 1.3 -->
