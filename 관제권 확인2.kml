@@ -2,9 +2,12 @@
   <Document>
       <Style id="labelStyle">
       <LabelStyle>
-        <color>ff00ffff</color> <!-- 라벨 색상: #00ffff -->
         <scale>1.3</scale> <!-- 크기: 1.3 -->
       </LabelStyle>
+      <IconStyle>
+      <color>00ffffff</color> <!-- 투명한 아이콘 색상 -->
+      <scale>1.1</scale> <!-- 아이콘 크기: 1.1 -->
+    </IconStyle> 
     </Style>
       <!-- 첫 번째 폴리곤 -->
     <Placemark>
