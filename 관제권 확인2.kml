@@ -182,7 +182,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>3 구역</name>
+      <name>3 sector</name>
             <Style>
     <IconStyle>
       <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
@@ -197,7 +197,7 @@
       </Point>
     </Placemark>
     <Placemark>
-			<name>2 구역</name>
+			<name>2 sector</name>
       <Style>
     <IconStyle>
       <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
@@ -212,7 +212,7 @@
 			</Point> 
     </Placemark>
     <Placemark>
-			<name>4 구역</name>
+			<name>4 sector</name>
         <Style>
     <IconStyle>
      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
@@ -227,7 +227,7 @@
 			</Point>
 		</Placemark>
     <Placemark>
-			<name>5 구역</name>
+			<name>5 sector</name>
         <Style>
     <IconStyle>
       <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
@@ -242,7 +242,7 @@
 			</Point>
 		</Placemark>
     <Placemark>
-			<name>R 구역</name>
+			<name>R sector</name>
 			       <Style>
     <IconStyle>
       <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
@@ -257,7 +257,7 @@
 			</Point>
 		</Placemark>
    <Placemark>
-			<name>6 구역</name>
+			<name>6 sector</name>
 			      <Style>
     <IconStyle>
       <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
@@ -272,7 +272,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>7 구역</name>
+			<name>7 sector</name>
 			      <Style>
     <IconStyle>
       <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
@@ -287,7 +287,7 @@
 			</Point>
 		</Placemark> 
      <Placemark>
-			<name>1 구역</name>
+			<name>1 sector</name>
       <Style>
     <IconStyle>
       <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
