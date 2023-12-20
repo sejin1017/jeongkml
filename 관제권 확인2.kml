@@ -227,5 +227,12 @@
 				<coordinates>126.7580042174415,33.4475858353759,0</coordinates>
 			</Point>
 		</Placemark> 
+     <Placemark>
+			<name>1 구역</name>
+                        <styleUrl>#labelStyle</styleUrl>
+                        <Point>
+				<coordinates>126.6620702377426,33.39698286070909,0</coordinates>
+			</Point>
+		</Placemark> 
   </Document>
 </kml>
