@@ -2,7 +2,10 @@
   <Document>
       <!-- 첫 번째 폴리곤 -->
     <Placemark>
-        <name>가</name>
+        <name>R SECTOR</name>
+         <description><![CDATA[
+             R SECTOR
+  ]]></description>
         <Style>
         <LineStyle>      
           <width>2</width>
@@ -24,7 +27,10 @@
     </Placemark>
     <!-- 두 번째 폴리곤 -->
     <Placemark>
-     <name>나</name>
+     <name>5 SECTOR</name>
+          <description><![CDATA[
+             5 SECTOR
+  ]]></description>
      <Style>
         <LineStyle>
           <width>2</width>
@@ -46,7 +52,10 @@
     </Placemark>
     <!-- 세 번째 폴리곤 -->
     <Placemark>
-        <name>다</name>
+             <name>2 SECTOR</name>
+          <description><![CDATA[
+             2 SECTOR
+  ]]></description>
         <Style>
         <LineStyle>
           <width>2</width>
@@ -68,7 +77,10 @@
     </Placemark>
     <!-- 네 번째 폴리곤 -->
     <Placemark>
-        <name>라</name>
+            <name>1 SECTOR</name>
+          <description><![CDATA[
+             1 SECTOR
+  ]]></description>
         <Style>
         <LineStyle>
           <width>2</width>
@@ -90,7 +102,10 @@
     </Placemark>
     <!-- 다섯 번째 폴리곤 -->
     <Placemark>
-          <name>마</name>
+               <name>3 SECTOR</name>
+          <description><![CDATA[
+             3 SECTOR
+  ]]></description>
           <Style>
         <LineStyle>
           <width>2</width>
@@ -112,7 +127,10 @@
     </Placemark>
     <!-- 여섯 번째 폴리곤 -->
     <Placemark>
-         <name>바</name>
+             <name>4 SECTOR</name>
+          <description><![CDATA[
+             4 SECTOR
+  ]]></description>
          <Style>
         <LineStyle>
           <width>2</width>
@@ -134,7 +152,10 @@
     </Placemark>
     <!-- 일곱 번째 폴리곤 -->
     <Placemark>
-         <name>사</name>
+              <name>6 SECTOR</name>
+          <description><![CDATA[
+             6 SECTOR
+  ]]></description>
          <Style>
         <LineStyle>
           <width>2</width>
@@ -156,7 +177,10 @@
     </Placemark>
     <!-- 여덟 번째 원 -->
     <Placemark>
-        <name>7 구역</name>
+             <name>7 SECTOR</name>
+          <description><![CDATA[
+             7 SECTOR
+  ]]></description>
         <Style>
         <LineStyle>
           <width>2</width>
@@ -181,125 +205,5 @@
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
-    <Placemark>
-      <name>3 sector</name>
-            <Style>
-    <IconStyle>
-      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-      <Point>
-        <coordinates>126.6800398007761,33.35545697624054,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-			<name>2 sector</name>
-      <Style>
-    <IconStyle>
-      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-      <Point>
-				<coordinates>126.6808286013104,33.43398120607775,0</coordinates>
-			</Point> 
-    </Placemark>
-    <Placemark>
-			<name>4 sector</name>
-        <Style>
-    <IconStyle>
-     <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-      <Point>
-				<coordinates>126.7117463145672,33.33703030857004,0</coordinates>
-			</Point>
-		</Placemark>
-    <Placemark>
-			<name>5 sector</name>
-        <Style>
-    <IconStyle>
-      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-      <Point>
-				<coordinates>126.7109578448146,33.45177557246237,0</coordinates>
-			</Point>
-		</Placemark>
-    <Placemark>
-			<name>R sector</name>
-			       <Style>
-    <IconStyle>
-      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-			<Point>
-				<coordinates>126.711323963212,33.39077928044976,0</coordinates>
-			</Point>
-		</Placemark>
-   <Placemark>
-			<name>6 sector</name>
-			      <Style>
-    <IconStyle>
-      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-			<Point>
-				<coordinates>126.7628859673386,33.39810572154422,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>7 sector</name>
-			      <Style>
-    <IconStyle>
-      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-			<Point>
-				<coordinates>126.7580042174415,33.4475858353759,0</coordinates>
-			</Point>
-		</Placemark> 
-     <Placemark>
-			<name>1 sector</name>
-      <Style>
-    <IconStyle>
-      <color>00ffffff</color> <!-- 라벨 색상: #00ffff -->
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </IconStyle>
-    <LabelStyle>
-      <scale>1.3</scale> <!-- 크기: 1.3 -->
-    </LabelStyle>
-  </Style>
-                        <Point>
-				<coordinates>126.6620702377426,33.39698286070909,0</coordinates>
-			</Point>
-		</Placemark> 
   </Document>
 </kml>
