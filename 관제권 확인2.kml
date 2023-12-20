@@ -205,5 +205,213 @@
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+  <Placemark>
+      <name>3 SECTOR</name>
+   <ExtendedData>
+      <Data name="name">
+       <value>3 SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+          <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+	<scale>1.3</scale>
+      </IconStyle>
+      </Style> 
+      <Point>
+        <coordinates>126.6800398007761,33.35545697624054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+			<name>2 SECTOR</name>
+     <ExtendedData>
+      <Data name="name">
+       <value>2 SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+          <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+	<scale>1.3</scale>
+      </IconStyle>
+      </Style>
+      <Point>
+				<coordinates>126.6808286013104,33.43398120607775,0</coordinates>
+			</Point> 
+    </Placemark>
+    <Placemark>
+			<name>4 SECTOR</name>
+      <ExtendedData>
+      <Data name="name">
+       <value>4 SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+         <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+	<scale>1.3</scale>
+      </IconStyle>
+      </Style>
+      <Point>
+				<coordinates>126.7117463145672,33.33703030857004,0</coordinates>
+			</Point>
+		</Placemark>
+    <Placemark>
+			<name>5 SECTOR</name>
+     <ExtendedData>
+      <Data name="name">
+       <value>5 SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+         <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+	<scale>1.3</scale>
+      </IconStyle>
+      </Style>
+      <Point>
+				<coordinates>126.7109578448146,33.45177557246237,0</coordinates>
+			</Point>
+		</Placemark>
+    <Placemark>
+			<name>R SECTOR</name>
+    <ExtendedData>
+      <Data name="name">
+       <value>R SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+			    <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+	<scale>1.3</scale>
+      </IconStyle>
+      </Style>
+			<Point>
+				<coordinates>126.711323963212,33.39077928044976,0</coordinates>
+			</Point>
+		</Placemark>
+   <Placemark>
+			<name>6 SECTOR</name>
+     <ExtendedData>
+      <Data name="name">
+       <value>6 SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+			    <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+	<scale>1.3</scale>
+      </IconStyle>
+      </Style>
+			<Point>
+				<coordinates>126.7628859673386,33.39810572154422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 SECTOR</name>
+       <ExtendedData>
+      <Data name="name">
+       <value>7 SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+			    <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+	<scale>1.3</scale>
+      </IconStyle>
+      </Style>
+			<Point>
+				<coordinates>126.7580042174415,33.4475858353759,0</coordinates>
+			</Point>
+		</Placemark> 
+     <Placemark>
+			<name>1 SECTOR</name>
+      <ExtendedData>
+      <Data name="name">
+       <value>1 SECTOR</value>
+      </Data>
+    </ExtendedData>
+    <BalloonStyle>
+    <text>
+      <![CDATA[
+        $[name]
+      ]]>
+    </text>
+  </BalloonStyle>
+      <Style>
+      <LabelStyle>
+        <scale>1.3</scale>
+      </LabelStyle>
+      <IconStyle>
+   	<scale>1.3</scale>
+      </IconStyle>
+      </Style>
+                        <Point>
+				<coordinates>126.6620702377426,33.39698286070909,0</coordinates>
+			</Point>
+		</Placemark> 
   </Document>
 </kml>
