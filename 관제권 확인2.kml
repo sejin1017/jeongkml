@@ -1,5 +1,33 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+	<Style id="style">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
       <!-- 첫 번째 폴리곤 -->
     <Placemark>
         <name>R SECTOR</name>
@@ -413,5 +441,17 @@
 				<coordinates>126.6620702377426,33.39698286070909,0</coordinates>
 			</Point>
 		</Placemark> 
+	<Placemark>
+		<styleUrl>#stylemap_id5</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						126.751412019204,33.4507091356337,0 126.748723155112,33.4507037158426,0 126.74872393513,33.4504332349673,0 126.751090128147,33.4504380074134,0 126.751091759718,33.4498668493957,0 126.749249818328,33.4465346343551,0 126.74960582126,33.4465353537225,0 126.751414591399,33.4498075324857,0 126.751412019204,33.4507091356337,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
   </Document>
 </kml>
