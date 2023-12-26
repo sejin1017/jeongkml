@@ -117,7 +117,6 @@
 	</StyleMap>
 	<Placemark>
 		<name>R SECTOR</name>
-		<visibility>0</visibility>
 		<description>R SECTOR</description>
 		<styleUrl>#stylemap_id0</styleUrl>
 		<Polygon>
@@ -132,7 +131,6 @@
 	</Placemark>
 	<Placemark>
 		<name>5 SECTOR</name>
-		<visibility>0</visibility>
 		<description>5 SECTOR</description>
 		<Style>
 			<LineStyle>
@@ -155,7 +153,6 @@
 	</Placemark>
 	<Placemark>
 		<name>2 SECTOR</name>
-		<visibility>0</visibility>
 		<description>2 SECTOR</description>
 		<Style>
 			<LineStyle>
@@ -178,7 +175,6 @@
 	</Placemark>
 	<Placemark>
 		<name>1 SECTOR</name>
-		<visibility>0</visibility>
 		<description>1 SECTOR</description>
 		<Style>
 			<LineStyle>
@@ -201,7 +197,6 @@
 	</Placemark>
 	<Placemark>
 		<name>3 SECTOR</name>
-		<visibility>0</visibility>
 		<description>3 SECTOR</description>
 		<Style>
 			<LineStyle>
@@ -224,7 +219,6 @@
 	</Placemark>
 	<Placemark>
 		<name>4 SECTOR</name>
-		<visibility>0</visibility>
 		<description>4 SECTOR</description>
 		<Style>
 			<LineStyle>
@@ -247,7 +241,6 @@
 	</Placemark>
 	<Placemark>
 		<name>5구역</name>
-		<visibility>0</visibility>
 		<snippet></snippet>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<ExtendedData>
@@ -325,7 +318,6 @@
 	</Placemark>
 	<Placemark>
 		<name>6 SECTOR</name>
-		<visibility>0</visibility>
 		<description>6 SECTOR</description>
 		<Style>
 			<LineStyle>
@@ -348,7 +340,6 @@
 	</Placemark>
 	<Placemark>
 		<name>7 SECTOR</name>
-		<visibility>0</visibility>
 		<description>7 SECTOR</description>
 		<Style>
 			<LineStyle>
@@ -602,7 +593,6 @@
 	</Placemark>
 	<Placemark>
 		<name>R구역</name>
-		<visibility>0</visibility>
 		<snippet></snippet>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<ExtendedData>
