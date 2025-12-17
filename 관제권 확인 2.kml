@@ -554,7 +554,7 @@
 	<Placemark>
 		<name>1구역</name>
 		<snippet></snippet>
-		<styleUrl>#stylemap_id15</styleUrl>
+		<styleUrl>#stylemap_id11</styleUrl>
 		<ExtendedData>
 			<SchemaData schemaUrl="#entities0">
 				<SimpleData name="Layer">0</SimpleData>
